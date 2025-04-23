@@ -1,5 +1,5 @@
 # Datalab Report
-***23307130417 梁灿***
+
 ### 运行`./dlc -e bits.c`结果
 ![dlc](./dlc.png)
 ### 运行`./btest`结果
